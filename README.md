@@ -7,7 +7,9 @@ securityhacpro@root:~# ./depend.sh
 securityhacpro@root:~# ceh
 
 First change mode of depend.sh file to make executable 
+
 Second run the depend.sh file 
+
 Third now everything is ready you can open over tool from anywhere(any directory) using ceh command.
 
 About : 
