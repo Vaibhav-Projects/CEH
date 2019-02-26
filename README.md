@@ -1,4 +1,4 @@
-# CEH
+# CEH_TOOL
 
 securityhacpro@root:~# chmod +x depend.sh
 
