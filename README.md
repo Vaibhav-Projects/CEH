@@ -1,7 +1,9 @@
 # CEH
 
 securityhacpro@root:~# chmod +x depend.sh
+
 securityhacpro@root:~# ./depend.sh
+
 securityhacpro@root:~# ceh
 
 First change mode of depend.sh file to make executable 
