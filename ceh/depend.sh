@@ -2,6 +2,7 @@
 l="$(pwd)"
 s=sudo ln -s ${l}/main.sh /usr/local/bin/ceh
 chmod +x ${l}/main.sh
+apt-get install figlet
 : '
 if type figlet > /dev/null; then
         echo -e "\e[33m--> figlet \e[31m[+]";sleep 0.20
