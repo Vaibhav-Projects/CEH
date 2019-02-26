@@ -6,43 +6,41 @@ securityhacpro@root:~# ./depend.sh
 
 securityhacpro@root:~# ceh
 
-First change mode of depend.sh file to make executable 
+First, change mode of depend.sh file to make it executable 
 
-Second run the depend.sh file 
+Second, run the depend.sh file 
 
-Third now everything is ready you can open over tool from anywhere(any directory) using ceh command.
+Now everything is ready. You can open our tool from anywhere(any directory) using 'ceh' command.
 
 About : 
 
-Tool is for all those individual who wanted to learn about ceh(Certified Ethical Hacker) exam it has all 18 modules of exam with 
-all the important information and links related to particular module and divided preinstalled kali linux tool according to every modules. Where you can learn about each tools and use it in two manner predefined way (for better understanding and easy way) and 
-user defined way.
+This tool is for all those individuals who want to learn about CEH(Certified Ethical Hacker) exam. It has all 18 modules of the exam with all the important information and links related to particular module and preinstalled kali linux tool divided according to every module where you can learn about each tools and use it in two manners - predefined way (for better understanding and easy way) and user defined way.
 
 Use : 
 
 ![](ceh/images/pic1.png)
 
-Look for tools are installed or not if not it will automatically installed tool.
+Look for tools that are installed or not. If not, it will automatically install the tool.
 
 ![](ceh/images/pic2.png)
 
-Interface of our tool with all modules of ceh.
+Interface of our tool with all the modules of CEH.
 
 ![](ceh/images/pic3.png)
 
-After selecting module of your choice you will get option to learn about that module one options for tools of particular module. 
+After selecting module of your choice you will get option to learn about that module and another option for tools of particular module. 
 
 ![](ceh/images/pic4.png)
 
-You will get some informationa about module and important links.
+You will get some information about module and important links.
 
 ![](ceh/images/pic5.png)
 
-If selecting tool option you will get list of all tools of that particular module.
+By selecting tool option you will get list of all the tools of that particular module.
 
 ![](ceh/images/pic6.png)
 
-After selecting tool of your choice you can learn about that tool or use it.
+After selecting the tool of your choice, you can learn about that tool or use it.
 
 ![](ceh/images/pic7.png)
 
@@ -54,7 +52,7 @@ Two way of using tool predefined(more useful for newbies) or userdefined way.
 
 ![](ceh/images/pic9.png)
 
-In predefined way you will get some options like this(this is just an example for nmap tool like this all other tools are also provided user freindly options or in some tools like in nmap -sI parameter is already added for TCP Full Scan).
+In predefined way you will get some options like this(this is just an example for nmap tool. Similarly all other tools are also provided with user friendly options).
 
 ![](ceh/images/pic10.png)
 
