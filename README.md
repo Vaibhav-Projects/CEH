@@ -1,10 +1,10 @@
 # CEH_TOOL
 
-securityhacpro@root:~# chmod +x depend.sh
+vaibhav@root:~# chmod +x depend.sh
 
-securityhacpro@root:~# ./depend.sh
+vaibhav@root:~# ./depend.sh
 
-securityhacpro@root:~# ceh
+vaibhav@root:~# ceh
 
 First, change mode of depend.sh file to make it executable 
 
@@ -62,5 +62,3 @@ In predefined way you will get some options like this(this is just an example fo
 
 Thank you.
 
-
-By securityhackpro team :)
