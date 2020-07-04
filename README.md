@@ -1,5 +1,7 @@
 # CEH_TOOL
 
+<p>Note: Changed my username from securityhackpro to vaibhav_projects</p>
+
 root@vaibhav:~# chmod +x depend.sh
 
 root@vaibhav:~# ./depend.sh
