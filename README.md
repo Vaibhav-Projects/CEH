@@ -1,10 +1,10 @@
 # CEH_TOOL
 
-vaibhav@root:~# chmod +x depend.sh
+root@vaibhav:~# chmod +x depend.sh
 
-vaibhav@root:~# ./depend.sh
+root@vaibhav:~# ./depend.sh
 
-vaibhav@root:~# ceh
+root@vaibhav:~# ceh
 
 First, change mode of depend.sh file to make it executable 
 
